@@ -1,0 +1,7 @@
+__pycache__/
+creditcard.csv
+NeuralNetwork/checkpoints/
+AutoencoderNeuralNetwork/__pycache__/
+AutoencoderNeuralNetwork/logs/
+AutoencoderNeuralNetwork/autoencoder_checkpoints/
+AutoencoderNeuralNetwork/classifier_checkpoints/
